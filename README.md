@@ -1,11 +1,11 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=Thiago+Rodrigues;Dev+%7C+Estudante+FIAP;Construindo+solu%C3%A7%C3%B5es+%7C+Aprendendo+sempre" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=Thiago+Rodrigues+Santa+rosa;Dev+%7C+Estudante+FIAP;Construindo+solu%C3%A7%C3%B5es+%7C+Aprendendo+sempre" alt="Typing SVG" />
 # 🚀 Thiago Rodrigues
  
-### `Analista e Desenvolvimento de Sistemas @ FIAP` | `Estagiário em formação`
+### `Analista e Desenvolvimento de Sistemas @ FIAP` | `do 1 semestre ate o primeiro estágio`
  
 <p>
-  Transformando ideias em código, café em commits ☕💻<br/>
+  Transformando ideias em código💻<br/>
   Curioso por tecnologia, dados e soluções que resolvem problemas reais
 </p>
 <br/>
