@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00A3FF&center=true&vCenter=true&width=600&lines=Thiago+Rodrigues+Santa+rosa;Dev+%7C+Estudante+FIAP; Reposit%C3%B3rio+de+Projetos+Pessoais" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00A3FF&center=true&vCenter=true&width=600&lines=Thiago+Rodrigues+Santa+rosa;Dev+%7C+Estudante+FIAP;Reposit%C3%B3rio+de+Projetos+Pessoais" alt="Typing SVG" />
 
-# 🚀 Thiago Rodrigues Santarosa
+# 🚀 Thiago Rodrigues Santa rosa
 
 ### `Analista e Desenvolvimento de Sistemas @ FIAP` | `do 1 commit ao primeiro estagio`
 
