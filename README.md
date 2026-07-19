@@ -18,10 +18,9 @@
  
 </div>
 <!--
-📌 GUIA DE SUBSTITUIÇÃO — troque antes de subir pro repo:
-1. seuemail@gmail.com  →  seu e-mail real (aparece 2x: no texto do badge e no link mailto:)
-2. seu-usuario         →  seu usuário do LinkedIn (ex: linkedin.com/in/thiago-rodrigues-123)
-3. "Thiago Rodrigues"  →  ajuste se quiser usar nome completo ou apelido
-4. O GitHub já tá certo (Thiagordsr), só confirma se é esse mesmo
--->
+📌 GUIA DE SUBSTITUIÇÃO 
+1. seuemail@gmail.com  
+2. seu-usuario 
+3. "Thiago Rodrigues"
+4. 
  
