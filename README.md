@@ -4,7 +4,7 @@
 
 # 🚀 Thiago Rodrigues Santa rosa
 
-### `Analista e Desenvolvimento de Sistemas @ FIAP` | `do 1 commit ao primeiro estagio`
+### Analise e Desenvolvimento de Sistemas @ FIAP` | do 1 commit ao primeiro estagio`
 
 <p>
   📂 Repositório dedicado aos meus projetos pessoais — experimentos, estudos e ideias colocadas em prática.<br/>
